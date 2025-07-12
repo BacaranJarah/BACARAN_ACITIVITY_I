@@ -1,4 +1,4 @@
-class SIEGUE_ACTIVITY_I {
+class BACARAN_ACTIVITY_I {
     public static void main(String[] args) {
         double a = 10.5;
         double b = 4;
